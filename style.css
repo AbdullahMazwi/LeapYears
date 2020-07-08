@@ -1,0 +1,82 @@
+body{
+background: #393e46;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+color: white;
+
+}
+
+input {
+  margin-top: 100px;
+  border-radius: 5px;
+  color: black;
+  width: 30%;
+}
+
+a{
+  padding: 3%;
+}
+
+footer{
+  margin-top: 100px;
+}
+
+.col{
+  margin-top: 90px;
+}
+
+.btn {
+  margin-bottom: 2px;
+  width: 20%;
+}
+
+
+.calc{
+  height: 150px;
+  width: 60%;
+  background-color: #393e46;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  margin-top: 90px;
+
+}
+
+
+.intro{
+  margin-top: 100px;
+}
+
+.what{
+  height: 200px;
+  width: 60%;
+  background-color: #393e46;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  margin-top: 200px;
+
+
+}
+
+
+
+#GFG {
+  margin-top: 50px;
+  font-size: 2rem;
+  color: white;
+}
+
+#button{
+  margin-top: 0;
+
+  height: 38px;
+
+}
+
+#year {
+  height:38px;
+  padding-left: auto;
+  padding-right: auto;
+  border: 0;
+}
